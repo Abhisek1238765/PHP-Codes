@@ -1,0 +1,13 @@
+<link rel="stylesheet" href="<?= base_url(); ?>public/assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="<?= base_url(); ?>public/assets/css/jquery-ui.min.css">
+<link rel="stylesheet" href="<?= base_url(); ?>public/assets/css/ace-responsive-menu.css">
+<link rel="stylesheet" href="<?= base_url(); ?>public/assets/css/menu.css">
+<link rel="stylesheet" href="<?= base_url(); ?>public/assets/css/fontawesome.css">
+<link rel="stylesheet" href="<?= base_url(); ?>public/assets/css/flaticon.css">
+<link rel="stylesheet" href="<?= base_url(); ?>public/assets/css/bootstrap-select.min.css">
+<link rel="stylesheet" href="<?= base_url(); ?>public/assets/css/animate.css">
+<link rel="stylesheet" href="<?= base_url(); ?>public/assets/css/magnific-popup.css">
+<link rel="stylesheet" href="<?= base_url(); ?>public/assets/css/slider.css">
+<link rel="stylesheet" href="<?= base_url(); ?>public/assets/css/style.css">
+<link rel="stylesheet" href="<?= base_url(); ?>public/assets/css/ud-custom-spacing.css">
+<link rel="stylesheet" href="<?= base_url(); ?>public/assets/css/responsive.css">
